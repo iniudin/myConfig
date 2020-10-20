@@ -1,3 +1,4 @@
+# Source: https://ubuntuforums.org/showthread.php?p=9407186
 # 13 is the id of the trackpoint, 12 is the id of the touchpad
 # These came from running xinput --list
 # The output of xinput --list-props for these devices:
